@@ -2,12 +2,29 @@
 
 if [ "$1" != "" ]; then
     method=$1
+    if [ "$2" != "" ]; then
+        name=$2
+        if [ "$3" != "" ]; then
+            count=$3
+        else
+            echo "Need more arguments"
+            exit
+        fi
+    else
+        echo "Need more arguments"
+        exit
+    fi
+
+elif [ "$1" == "-h" ]; then
+    echo "Calculate distance matrix"
+    echo "Usage:"
+    echo "./calc_distance_matrix.sh method protein number_of_sequences"
+    exit
 fi
 
-name=$2
-count=$3
+
 fasta_file=$name'_'$count'.txt'
-out_file=$name'_'$method
+out_file=$name'_'$count'_'$method
 
 case "$method" in
 
@@ -28,11 +45,12 @@ wmetric)
     ;;
 
 word)
-    calc_word.py --fasta $fasta_file --word_size 10 -o $out_file
+    size=5
+    calc_word.py --fasta $fasta_file --word_size $size -o $out_file
     ;;
 
 cv)
-    size=3
+    size=5
     calc_word_cv.py --fasta $fasta_file --word_size $size -o $out_file
     ;;
 
@@ -46,9 +64,10 @@ ffp)
     ;;
 
 rtd)
-    size=10
+    size=5
     #mozno nastavit vzdialenost
-    calc_word_rtd.py --fasta $fasta_file --word_size $size -o $out_file
+    #nefunguje, vzdialenost nema implementovanu
+    calc_word_rtd.py --fasta $fasta_file --word_size $size -d angle_cos_diss -o $out_file
     ;;
 
 *)
