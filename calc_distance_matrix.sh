@@ -23,7 +23,7 @@ elif [ "$1" == "-h" ]; then
 fi
 
 
-fasta_file=$name'_'$count'.txt'
+fasta_file=$name'.txt'
 out_file=$name'_'$count'_'$method
 
 case "$method" in

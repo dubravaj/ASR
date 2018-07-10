@@ -1,0 +1,749 @@
+
+                        /-gi|1238712
+                     /-|
+                    |   \-gi|1238588
+                    |
+                    |            /-gi|1011413
+                    |           |
+                    |           |                        /-gi|1275788
+                    |           |                     /-|
+                    |           |                  /-|   \-gi|1394407
+                    |           |                 |  |
+                    |           |               /-|   \-gi|1025828
+                    |           |              |  |
+                    |         /-|            /-|   \-gi|1133915
+                    |        |  |           |  |
+                    |        |  |         /-|   \-gi|1222855
+                  /-|        |  |        |  |
+                 |  |        |  |      /-|   \-gi|6394552
+                 |  |        |  |     |  |
+                 |  |      /-|  |   /-|   \-gi|1035846
+                 |  |     |  |  |  |  |
+                 |  |     |  |   \-|   \-gi|1222960
+                 |  |     |  |     |
+                 |  |   /-|  |      \-gi|9270811
+                 |  |  |  |  |
+                 |  |  |  |   \-gi|1383314
+                 |  |  |  |
+                 |  |  |  |   /-gi|6705142
+                 |  |  |   \-|
+                 |  |  |      \-gi|5159975
+                 |   \-|
+                 |     |         /-gi|1358058
+                 |     |      /-|
+                 |     |     |  |   /-gi|1222974
+                 |     |     |   \-|
+                 |     |   /-|     |   /-gi|1133955
+                 |     |  |  |      \-|
+                 |     |  |  |         \-gi|7387217
+                 |      \-|  |
+                 |        |   \-gi|9480310
+                 |        |
+                 |         \-gi|1222872
+                 |
+                 |                  /-gi|1353424
+                 |               /-|
+                 |              |   \-gi|1165776
+                 |            /-|
+               /-|           |  |   /-gi|7387609
+              |  |           |   \-|
+              |  |         /-|      \-gi|5584753
+              |  |        |  |
+              |  |        |  |      /-gi|1222627
+              |  |        |  |   /-|
+              |  |      /-|   \-|   \-gi|1079665
+              |  |     |  |     |
+              |  |     |  |      \-gi|1165591
+              |  |     |  |
+              |  |     |  |   /-gi|5183672
+              |  |     |   \-|
+              |  |     |     |   /-gi|1199713
+              |  |     |      \-|
+              |  |     |        |   /-gi|7504497
+              |  |     |         \-|
+              |  |     |            \-gi|3743902
+              |  |     |
+              |  |     |                     /-gi|1178680
+              |  |     |                  /-|
+              |  |   /-|               /-|   \-gi|1180022
+              |  |  |  |              |  |
+            /-|  |  |  |            /-|   \-gi|1042846
+           |  |  |  |  |           |  |
+           |  |  |  |  |         /-|   \-gi|1070680
+           |  |  |  |  |        |  |
+           |  |  |  |  |        |  |   /-gi|1175128
+           |  |  |  |  |      /-|   \-|
+           |  |  |  |  |     |  |      \-gi|5282030
+           |  |  |  |  |     |  |
+           |  |  |  |  |     |  |   /-gi|1175518
+           |  |   \-|  |   /-|   \-|
+           |  |     |  |  |  |      \-gi|7638246
+           |  |     |  |  |  |
+         /-|  |     |  |  |  |   /-gi|1175127
+        |  |  |     |   \-|   \-|
+        |  |  |     |     |      \-gi|5281950
+        |  |  |     |     |
+        |  |  |     |     |   /-gi|1174823
+        |  |  |     |      \-|
+        |  |  |     |         \-gi|4025052
+        |  |  |     |
+      /-|  |  |      \-gi|5182530
+     |  |  |  |
+     |  |  |   \-gi|1024856
+     |  |  |
+     |  |  |   /-gi|1011516
+     |  |   \-|
+     |  |      \-gi|1124441
+     |  |
+     |   \-gi|8258681
+     |
+     |                     /-gi|8175975
+     |                  /-|
+     |               /-|   \-gi|1393817
+     |              |  |
+     |            /-|   \-gi|7035872
+     |           |  |
+     |         /-|   \-gi|1141010
+   /-|        |  |
+  |  |        |  |   /-gi|1004097
+  |  |        |   \-|
+  |  |      /-|      \-gi|1177702
+  |  |     |  |
+  |  |     |  |      /-gi|1172303
+  |  |     |  |   /-|
+  |  |     |  |  |   \-gi|1176253
+  |  |   /-|   \-|
+  |  |  |  |     |   /-gi|1004096
+  |  |  |  |      \-|
+  |  |  |  |         \-gi|1177707
+  |  |  |  |
+  |  |  |   \-gi|1360618
+  |  |  |
+  |  |  |               /-gi|1207641
+  |  |  |            /-|
+  |   \-|         /-|   \-gi|1189462
+  |     |        |  |
+  |     |      /-|   \-gi|1268698
+  |     |     |  |
+  |     |     |   \-gi|8603161
+  |     |     |
+  |     |   /-|         /-gi|1207701
+  |     |  |  |      /-|
+  |     |  |  |   /-|   \-gi|1063129
+  |     |  |  |  |  |
+  |      \-|   \-|   \-gi|1079339
+  |        |     |
+  |        |      \-gi|1267316
+  |        |
+  |        |   /-gi|1222647
+  |         \-|
+  |            \-gi|1261309
+  |
+  |            /-gi|1175555
+  |         /-|
+  |        |  |   /-gi|8080640
+  |        |   \-|
+--|      /-|      \-gi|5164244
+  |     |  |
+  |     |  |   /-gi|1176645
+  |   /-|   \-|
+  |  |  |      \-gi|1031373
+  |  |  |
+  |  |  |   /-gi|1178863
+  |  |   \-|
+  |  |      \-gi|1062497
+  |  |
+  |  |                        /-gi|8602318
+  |  |                     /-|
+  |  |                    |  |   /-gi|5212887
+  |  |                  /-|   \-|
+  |  |                 |  |      \-gi|6515849
+  |  |                 |  |
+  |  |               /-|   \-gi|1130988
+  |  |              |  |
+  |  |              |  |   /-gi|1140940
+  |  |            /-|   \-|
+  |  |           |  |      \-gi|5845807
+  |  |           |  |
+  |  |           |   \-gi|1140912
+  |  |         /-|
+  |  |        |  |         /-gi|4892778
+  |  |        |  |      /-|
+  |  |        |  |   /-|   \-gi|9746450
+  |  |      /-|  |  |  |
+  |  |     |  |   \-|   \-gi|6474927
+  |  |     |  |     |
+  |  |     |  |      \-gi|6474897
+  |  |     |  |
+  |  |     |   \-gi|1381838
+  |  |   /-|
+  |  |  |  |            /-gi|1006560
+  |  |  |  |         /-|
+  |  |  |  |      /-|   \-gi|1182704
+  |  |  |  |     |  |
+  |  |  |  |   /-|   \-gi|7488203
+  |  |  |  |  |  |
+   \-|  |   \-|   \-gi|7500609
+     |  |     |
+     |  |      \-gi|1098134
+     |  |
+     |  |                  /-gi|1198959
+     |  |               /-|
+     |  |              |   \-gi|1031373
+     |  |            /-|
+     |  |           |  |   /-gi|8080640
+     |  |         /-|   \-|
+     |  |        |  |      \-gi|5164244
+     |  |      /-|  |
+     |  |     |  |   \-gi|8080538
+     |  |     |  |
+     |  |     |   \-gi|1062668
+     |  |     |
+     |  |     |            /-gi|1394406
+     |  |     |         /-|
+     |  |     |        |  |   /-gi|1025829
+     |  |     |        |   \-|
+     |  |     |        |      \-gi|1035847
+     |  |     |        |
+     |  |     |        |                  /-gi|1222852
+     |  |     |        |               /-|
+     |  |     |        |            /-|   \-gi|1236141
+     |  |     |      /-|           |  |
+     |  |     |     |  |         /-|   \-gi|9270840
+     |  |   /-|     |  |        |  |
+     |  |  |  |     |  |        |  |   /-gi|1222951
+     |  |  |  |     |  |      /-|   \-|
+     |  |  |  |     |  |     |  |      \-gi|1133916
+     |  |  |  |   /-|  |   /-|  |
+     |  |  |  |  |  |  |  |  |   \-gi|6394523
+     |  |  |  |  |  |   \-|  |
+     |  |  |  |  |  |     |   \-gi|1159805
+     |  |  |  |  |  |     |
+     |  |  |  |  |  |      \-gi|1011414
+     |  |  |  |  |  |
+      \-|  |  |  |   \-gi|1160849
+        |  |  |  |
+        |  |  |  |            /-gi|7387775
+        |  |  |  |         /-|
+        |  |  |  |        |  |   /-gi|1358789
+        |  |  |  |        |   \-|
+        |  |   \-|        |      \-gi|1222975
+        |  |     |        |
+        |  |     |      /-|            /-gi|7387147
+        |  |     |     |  |         /-|
+        |  |     |     |  |      /-|   \-gi|8366952
+        |  |     |     |  |     |  |
+        |  |     |     |  |   /-|   \-gi|1133830
+        |  |     |     |  |  |  |
+        |  |     |   /-|   \-|   \-gi|1133946
+        |  |     |  |  |     |
+        |  |     |  |  |     |   /-gi|1133958
+        |  |     |  |  |      \-|
+        |  |     |  |  |         \-gi|1015837
+        |  |     |  |  |
+        |  |      \-|   \-gi|1358058
+        |  |        |
+        |  |        |         /-gi|1133954
+        |  |        |      /-|
+        |  |        |   /-|   \-gi|5162857
+        |  |        |  |  |
+        |  |         \-|   \-gi|1222990
+        |  |           |
+        |  |            \-gi|1122546
+        |  |
+        |  |                              /-gi|1177697
+        |  |                           /-|
+        |  |                        /-|   \-gi|4894210
+        |  |                       |  |
+        |  |                     /-|   \-gi|1360770
+        |  |                    |  |
+        |  |                  /-|   \-gi|1360767
+        |  |                 |  |
+        |  |               /-|   \-gi|4984883
+        |  |              |  |
+        |  |            /-|   \-gi|1361065
+        |  |           |  |
+        |  |         /-|   \-gi|1207763
+        |  |        |  |
+        |  |      /-|   \-gi|1004096
+         \-|     |  |
+           |     |   \-gi|1229387
+           |     |
+           |   /-|   /-gi|1129138
+           |  |  |  |
+           |  |  |  |   /-gi|1794290
+           |  |  |  |  |
+           |  |  |  |  |   /-gi|4091074
+           |  |   \-|  |  |
+           |  |     |  |  |                                          /-gi|6371569
+           |  |     |  |  |                                       /-|
+           |  |     |  |  |                                    /-|   \-gi|1374085
+           |  |     |  |  |                                   |  |
+           |  |     |  |  |                                 /-|   \-gi|7516202
+           |  |      \-|  |                                |  |
+           |  |        |  |                              /-|   \-gi|1207611
+           |  |        |  |                             |  |
+           |  |        |  |                           /-|   \-gi|7643590
+           |  |        |  |                          |  |
+           |  |        |  |                        /-|   \-gi|7516487
+           |  |        |  |                       |  |
+           |  |        |  |                     /-|   \-gi|6371748
+           |  |        |  |                    |  |
+           |  |         \-|                  /-|   \-gi|9535345
+           |  |           |                 |  |
+           |  |           |               /-|   \-gi|7461158
+           |  |           |              |  |
+           |  |           |            /-|   \-gi|1140996
+           |  |           |           |  |
+           |  |           |         /-|   \-gi|1130444
+           |  |           |        |  |
+           |  |           |      /-|   \-gi|8519725
+           |  |           |     |  |
+           |  |           |   /-|   \-gi|8500142
+           |  |           |  |  |
+           |  |           |  |  |   /-gi|1274535
+           |  |           |  |   \-|
+           |  |           |  |      \-gi|9809546
+           |  |           |  |
+           |  |            \-|      /-gi|4956364
+           |  |              |   /-|
+           |  |              |  |   \-gi|1359154
+           |  |              |  |
+           |  |              |  |            /-gi|9855930
+           |  |              |  |         /-|
+           |  |               \-|        |   \-gi|1360779
+           |  |                 |      /-|
+           |  |                 |     |  |   /-gi|7461030
+           |  |                 |   /-|   \-|
+           |  |                 |  |  |      \-gi|585908|
+           |  |                 |  |  |
+           |  |                  \-|   \-gi|1942120
+           |  |                    |
+           |  |                    |   /-gi|1002969
+           |  |                     \-|
+           |  |                       |   /-gi|1383481
+           |  |                        \-|
+            \-|                          |   /-gi|1360751
+              |                           \-|
+              |                             |   /-gi|1275640
+              |                              \-|
+              |                                |   /-gi|1360795
+              |                                 \-|
+              |                                   |   /-gi|7632775
+              |                                    \-|
+              |                                      |   /-gi|7362256
+              |                                       \-|
+              |                                         |   /-gi|1360774
+              |                                          \-|
+              |                                            |   /-gi|1238586
+              |                                             \-|
+              |                                               |   /-gi|1040472
+              |                                                \-|
+              |                                                  |   /-gi|4893052
+              |                                                   \-|
+              |                                                     |   /-gi|7366527
+              |                                                      \-|
+              |                                                        |   /-gi|5008599
+              |                                                         \-|
+              |                                                           |   /-gi|4956235
+              |                                                            \-|
+              |                                                              |   /-gi|9602934
+              |                                                               \-|
+              |                                                                 |   /-gi|1274554
+              |                                                                  \-|
+              |                                                                    |   /-gi|5159375
+              |                                                                     \-|
+              |                                                                       |   /-gi|1351330
+              |                                                                        \-|
+              |                                                                          |   /-gi|4601484
+              |                                                                           \-|
+              |                                                                             |   /-gi|5159273
+              |                                                                              \-|
+              |                                                                                |   /-gi|9835468
+              |                                                                                 \-|
+              |                                                                                   |   /-gi|1252977
+              |                                                                                    \-|
+              |                                                                                       \-gi|2537227
+              |
+              |   /-gi|1645127
+              |  |
+              |  |   /-gi|1004344
+              |  |  |
+              |  |  |                           /-gi|5303389
+              |  |  |                        /-|
+              |  |  |                     /-|   \-gi|5052005
+              |  |  |                    |  |
+              |  |  |                  /-|   \-gi|3851508
+              |  |  |                 |  |
+              |  |  |               /-|   \-gi|4892432
+              |  |  |              |  |
+              |  |  |              |   \-gi|1141010
+               \-|  |              |
+                 |  |              |                           /-gi|1543534
+                 |  |              |                        /-|
+                 |  |              |                     /-|   \-gi|1229062
+                 |  |              |                    |  |
+                 |  |              |                  /-|   \-gi|7666277
+                 |  |              |                 |  |
+                 |  |            /-|               /-|   \-gi|4946494
+                 |  |           |  |              |  |
+                 |  |           |  |            /-|   \-gi|3871742
+                 |  |           |  |           |  |
+                 |  |           |  |         /-|   \-gi|6962897
+                 |  |           |  |        |  |
+                  \-|           |  |      /-|   \-gi|7528566
+                    |           |  |     |  |
+                    |           |  |   /-|   \-gi|9890161
+                    |           |  |  |  |
+                    |         /-|  |  |   \-gi|1267221
+                    |        |  |   \-|
+                    |        |  |     |   /-gi|7235979
+                    |        |  |     |  |
+                    |        |  |      \-|      /-gi|4520813
+                    |        |  |        |   /-|
+                    |      /-|  |         \-|   \-gi|6677566
+                    |     |  |  |           |
+                    |     |  |  |            \-gi|7528565
+                    |     |  |  |
+                    |     |  |   \-gi|9835221
+                    |     |  |
+                    |     |  |   /-gi|3740741
+                    |   /-|   \-|
+                    |  |  |      \-gi|1167816
+                    |  |  |
+                    |  |  |         /-gi|1036317
+                    |  |  |      /-|
+                    |  |  |   /-|   \-gi|5155045
+                    |  |  |  |  |
+                    |  |   \-|   \-gi|464661|
+                     \-|     |
+                       |      \-gi|452374|
+                       |
+                       |   /-gi|1065148
+                       |  |
+                       |  |         /-gi|9903216
+                       |  |      /-|
+                       |  |   /-|   \-gi|4274100
+                        \-|  |  |
+                          |  |   \-gi|576021|
+                          |  |
+                          |  |            /-gi|7801975
+                          |  |         /-|
+                          |  |      /-|   \-gi|1053185
+                           \-|     |  |
+                             |     |   \-gi|1212738
+                             |   /-|
+                             |  |  |      /-gi|4139700
+                             |  |  |   /-|
+                             |  |   \-|   \-gi|4139773
+                             |  |     |
+                              \-|      \-gi|4139770
+                                |
+                                |   /-gi|1065155
+                                |  |
+                                |  |   /-gi|1065151
+                                 \-|  |
+                                   |  |            /-gi|493908|
+                                   |  |         /-|
+                                   |  |      /-|   \-gi|1065224
+                                    \-|     |  |
+                                      |   /-|   \-gi|1885959
+                                      |  |  |
+                                      |  |  |   /-gi|4139703
+                                      |  |   \-|
+                                      |  |      \-gi|8375463
+                                       \-|
+                                         |      /-gi|442651|
+                                         |   /-|
+                                         |  |   \-gi|1065216
+                                         |  |
+                                         |  |      /-gi|493905|
+                                          \-|   /-|
+                                            |  |   \-gi|493911|
+                                            |  |
+                                            |  |      /-gi|576011|
+                                             \-|   /-|
+                                               |  |   \-gi|4139683
+                                               |  |
+                                               |  |      /-gi|493899|
+                                                \-|   /-|
+                                                  |  |  |   /-gi|493902|
+                                                  |  |   \-|
+                                                  |  |      \-gi|1065209
+                                                   \-|
+                                                     |      /-gi|6636039
+                                                     |   /-|
+                                                     |  |   \-gi|5640659
+                                                      \-|
+                                                        |   /-gi|1065202
+                                                         \-|
+                                                           |   /-gi|442654|
+                                                            \-|
+                                                              |   /-gi|2537228
+                                                               \-|
+                                                                 |   /-gi|230301|
+                                                                  \-|
+                                                                    |   /-gi|1121468
+                                                                     \-|
+                                                                       |   /-gi|493893|
+                                                                        \-|
+                                                                          |   /-gi|1439559
+                                                                           \-|
+                                                                             |   /-gi|3098405
+                                                                              \-|
+                                                                                |   /-gi|551694|
+                                                                                 \-|
+                                                                                   |   /-gi|5031190
+                                                                                    \-|
+                                                                                      |   /-gi|3289135
+                                                                                       \-|
+                                                                                          \-gi|133149|
+('Node ', '', [Tree node 'gi|1238712' (0x7fa05b881a9), Tree node 'gi|1238588' (0x7fa05b881ad)], 0.07107)
+('Node ', '', [Tree node 'gi|1275788' (0x7fa05b88a05), Tree node 'gi|1394407' (0x7fa05b88a09)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b881d9), Tree node 'gi|1025828' (0x7fa05b88a0d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b881d5), Tree node 'gi|1133915' (0x7fa05b88a11)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b881d1), Tree node 'gi|1222855' (0x7fa05b88a15)], 0.01708)
+('Node ', '', [Tree node '' (0x7fa05b881cd), Tree node 'gi|6394552' (0x7fa05b88a19)], 0.01205)
+('Node ', '', [Tree node '' (0x7fa05b881c9), Tree node 'gi|1035846' (0x7fa05b88a1d)], 0.00588)
+('Node ', '', [Tree node '' (0x7fa05b881c5), Tree node 'gi|1222960' (0x7fa05b88a21)], 0.00951)
+('Node ', '', [Tree node '' (0x7fa05b881c1), Tree node 'gi|9270811' (0x7fa05b88a25)], 0.02433)
+('Node ', '', [Tree node 'gi|1011413' (0x7fa05b881bd), Tree node '' (0x7fa05b881b9)], 0.01994)
+('Node ', '', [Tree node '' (0x7fa05b881b5), Tree node 'gi|1383314' (0x7fa05b88a29)], 0.01346)
+('Node ', '', [Tree node 'gi|6705142' (0x7fa05b881e1), Tree node 'gi|5159975' (0x7fa05b881e5)], 0.05807)
+('Node ', '', [Tree node '' (0x7fa05b881b1), Tree node '' (0x7fa05b881fd)], 0.0036)
+('Node ', '', [Tree node 'gi|1133955' (0x7fa05b88a39), Tree node 'gi|7387217' (0x7fa05b88a3d)], 0.03935)
+('Node ', '', [Tree node 'gi|1222974' (0x7fa05b88a2d), Tree node '' (0x7fa05b881f9)], 0.01256)
+('Node ', '', [Tree node 'gi|1358058' (0x7fa05b881f5), Tree node '' (0x7fa05b881f1)], 0.00644)
+('Node ', '', [Tree node '' (0x7fa05b881ed), Tree node 'gi|9480310' (0x7fa05b88a41)], 0.02112)
+('Node ', '', [Tree node '' (0x7fa05b881e9), Tree node 'gi|1222872' (0x7fa05b88a45)], 0.01092)
+('Node ', '', [Tree node '' (0x7fa05b881a1), Tree node '' (0x7fa05b881dd)], 0.01252)
+('Node ', '', [Tree node '' (0x7fa05b8819d), Tree node '' (0x7fa05b881a5)], 0.02076)
+('Node ', '', [Tree node 'gi|1353424' (0x7fa05b88a61), Tree node 'gi|1165776' (0x7fa05b88a65)], 0.02404)
+('Node ', '', [Tree node 'gi|7387609' (0x7fa05b88a69), Tree node 'gi|5584753' (0x7fa05b88a6d)], 0.02463)
+('Node ', '', [Tree node '' (0x7fa05b88a55), Tree node '' (0x7fa05b88a5d)], 0.07395)
+('Node ', '', [Tree node 'gi|1222627' (0x7fa05b88a7d), Tree node 'gi|1079665' (0x7fa05b88a81)], 0.09167)
+('Node ', '', [Tree node '' (0x7fa05b88a71), Tree node 'gi|1165591' (0x7fa05b88a85)], 0.00337)
+('Node ', '', [Tree node '' (0x7fa05b88a51), Tree node '' (0x7fa05b88a59)], 0.01728)
+('Node ', '', [Tree node 'gi|7504497' (0x7fa05b88a99), Tree node 'gi|3743902' (0x7fa05b88a9d)], 0.07198)
+('Node ', '', [Tree node 'gi|1199713' (0x7fa05b88a91), Tree node '' (0x7fa05b88a8d)], 0.05075)
+('Node ', '', [Tree node 'gi|5183672' (0x7fa05b88a89), Tree node '' (0x7fa05b88a75)], 0.00852)
+('Node ', '', [Tree node '' (0x7fa05b88a4d), Tree node '' (0x7fa05b88a79)], 0.00986)
+('Node ', '', [Tree node 'gi|1178680' (0x7fa05b88ac9), Tree node 'gi|1180022' (0x7fa05b88acd)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b88ab5), Tree node 'gi|1042846' (0x7fa05b88ad1)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b88ab1), Tree node 'gi|1070680' (0x7fa05b88ad5)], 0.02554)
+('Node ', '', [Tree node 'gi|1175128' (0x7fa05b88abd), Tree node 'gi|5282030' (0x7fa05b88ac1)], 0.01982)
+('Node ', '', [Tree node '' (0x7fa05b88aad), Tree node '' (0x7fa05b88ac5)], 0.01208)
+('Node ', '', [Tree node 'gi|1175518' (0x7fa05b88add), Tree node 'gi|7638246' (0x7fa05b88ae1)], 0.04281)
+('Node ', '', [Tree node '' (0x7fa05b88aa9), Tree node '' (0x7fa05b88ab9)], 0.00783)
+('Node ', '', [Tree node 'gi|1175127' (0x7fa05b88ae9), Tree node 'gi|5281950' (0x7fa05b88aed)], 0.04465)
+('Node ', '', [Tree node '' (0x7fa05b88aa5), Tree node '' (0x7fa05b88ad9)], 0.01731)
+('Node ', '', [Tree node 'gi|1174823' (0x7fa05b88af9), Tree node 'gi|4025052' (0x7fa05b88afd)], 0.06231)
+('Node ', '', [Tree node '' (0x7fa05b88aa1), Tree node '' (0x7fa05b88ae5)], 0.0618)
+('Node ', '', [Tree node '' (0x7fa05b88a49), Tree node '' (0x7fa05b88a95)], 0.00593)
+('Node ', '', [Tree node '' (0x7fa05b88a31), Tree node 'gi|5182530' (0x7fa05b89605)], 0.01117)
+('Node ', '', [Tree node '' (0x7fa05b88199), Tree node '' (0x7fa05b88a35)], 0.00611)
+('Node ', '', [Tree node '' (0x7fa05b88195), Tree node 'gi|1024856' (0x7fa05b89609)], 0.00369)
+('Node ', '', [Tree node 'gi|1011516' (0x7fa05b89611), Tree node 'gi|1124441' (0x7fa05b89615)], 0.12121)
+('Node ', '', [Tree node '' (0x7fa05b88191), Tree node '' (0x7fa05b88af5)], 0.00302)
+('Node ', '', [Tree node '' (0x7fa05b8818d), Tree node 'gi|8258681' (0x7fa05b89619)], 0.00454)
+('Node ', '', [Tree node 'gi|8175975' (0x7fa05b89641), Tree node 'gi|1393817' (0x7fa05b89645)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b8962d), Tree node 'gi|7035872' (0x7fa05b89649)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b89629), Tree node 'gi|1141010' (0x7fa05b8964d)], 0.09278)
+('Node ', '', [Tree node 'gi|1004097' (0x7fa05b89635), Tree node 'gi|1177702' (0x7fa05b89639)], 0.09798)
+('Node ', '', [Tree node '' (0x7fa05b89625), Tree node '' (0x7fa05b8963d)], 0.01248)
+('Node ', '', [Tree node 'gi|1172303' (0x7fa05b8965d), Tree node 'gi|1176253' (0x7fa05b89661)], 0.02071)
+('Node ', '', [Tree node 'gi|1004096' (0x7fa05b89669), Tree node 'gi|1177707' (0x7fa05b8966d)], 0.05773)
+('Node ', '', [Tree node '' (0x7fa05b89651), Tree node '' (0x7fa05b89659)], 0.05078)
+('Node ', '', [Tree node '' (0x7fa05b89621), Tree node '' (0x7fa05b89631)], 0.00688)
+('Node ', '', [Tree node '' (0x7fa05b8961d), Tree node 'gi|1360618' (0x7fa05b89671)], 0.02018)
+('Node ', '', [Tree node 'gi|1207641' (0x7fa05b89691), Tree node 'gi|1189462' (0x7fa05b89695)], 0.07109)
+('Node ', '', [Tree node '' (0x7fa05b8967d), Tree node 'gi|1268698' (0x7fa05b89699)], 0.04247)
+('Node ', '', [Tree node '' (0x7fa05b89679), Tree node 'gi|8603161' (0x7fa05b8969d)], 0.00789)
+('Node ', '', [Tree node 'gi|1207701' (0x7fa05b896a9), Tree node 'gi|1063129' (0x7fa05b896ad)], 0.06385)
+('Node ', '', [Tree node '' (0x7fa05b89685), Tree node 'gi|1079339' (0x7fa05b896b1)], 0.04534)
+('Node ', '', [Tree node '' (0x7fa05b89681), Tree node 'gi|1267316' (0x7fa05b896b5)], 0.01647)
+('Node ', '', [Tree node '' (0x7fa05b89675), Tree node '' (0x7fa05b8968d)], 0.00602)
+('Node ', '', [Tree node 'gi|1222647' (0x7fa05b896a1), Tree node 'gi|1261309' (0x7fa05b896b9)], 0.07433)
+('Node ', '', [Tree node '' (0x7fa05b89665), Tree node '' (0x7fa05b896a5)], 0.03442)
+('Node ', '', [Tree node '' (0x7fa05b8960d), Tree node '' (0x7fa05b89655)], 0.01032)
+('Node ', '', [Tree node '' (0x7fa05b88189), Tree node '' (0x7fa05b88af1)], 0.00673)
+('Node ', '', [Tree node 'gi|8080640' (0x7fa05b88169), Tree node 'gi|5164244' (0x7fa05b8816d)], 0.07343)
+('Node ', '', [Tree node 'gi|1175555' (0x7fa05b88161), Tree node '' (0x7fa05b8815d)], 0.0112)
+('Node ', '', [Tree node 'gi|1176645' (0x7fa05b88175), Tree node 'gi|1031373' (0x7fa05b88179)], 0.07548)
+('Node ', '', [Tree node '' (0x7fa05b88141), Tree node '' (0x7fa05b88165)], 0.04755)
+('Node ', '', [Tree node 'gi|1178863' (0x7fa05b88181), Tree node 'gi|1062497' (0x7fa05b88185)], 0.13725)
+('Node ', '', [Tree node '' (0x7fa05b8813d), Tree node '' (0x7fa05b88171)], 0.01684)
+('Node ', '', [Tree node 'gi|5212887' (0x7fa05b876f1), Tree node 'gi|6515849' (0x7fa05b876f5)], 0.02538)
+('Node ', '', [Tree node 'gi|8602318' (0x7fa05b876e5), Tree node '' (0x7fa05b876e1)], 0.00977)
+('Node ', '', [Tree node '' (0x7fa05b876dd), Tree node 'gi|1130988' (0x7fa05b876f9)], 0.01083)
+('Node ', '', [Tree node 'gi|1140940' (0x7fa05b88105), Tree node 'gi|5845807' (0x7fa05b88109)], 0.01575)
+('Node ', '', [Tree node '' (0x7fa05b876d9), Tree node '' (0x7fa05b876ed)], 0.0134)
+('Node ', '', [Tree node '' (0x7fa05b876d5), Tree node 'gi|1140912' (0x7fa05b8810d)], 0.00923)
+('Node ', '', [Tree node 'gi|4892778' (0x7fa05b88125), Tree node 'gi|9746450' (0x7fa05b88129)], 0.02303)
+('Node ', '', [Tree node '' (0x7fa05b88111), Tree node 'gi|6474927' (0x7fa05b8812d)], 0.00897)
+('Node ', '', [Tree node '' (0x7fa05b876fd), Tree node 'gi|6474897' (0x7fa05b88131)], 0.02179)
+('Node ', '', [Tree node '' (0x7fa05b876d1), Tree node '' (0x7fa05b876e9)], 0.07225)
+('Node ', '', [Tree node '' (0x7fa05b876cd), Tree node 'gi|1381838' (0x7fa05b88135)], 0.00419)
+('Node ', '', [Tree node 'gi|1006560' (0x7fa05b88149), Tree node 'gi|1182704' (0x7fa05b8814d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b8811d), Tree node 'gi|7488203' (0x7fa05b88151)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b88119), Tree node 'gi|7500609' (0x7fa05b88155)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b88115), Tree node 'gi|1098134' (0x7fa05b88159)], 0.11056)
+('Node ', '', [Tree node '' (0x7fa05b876b5), Tree node '' (0x7fa05b88121)], 0.01351)
+('Node ', '', [Tree node 'gi|1198959' (0x7fa05b86add), Tree node 'gi|1031373' (0x7fa05b86ae1)], 0.03654)
+('Node ', '', [Tree node 'gi|8080640' (0x7fa05b86aed), Tree node 'gi|5164244' (0x7fa05b86af1)], 0.01763)
+('Node ', '', [Tree node '' (0x7fa05b86ad1), Tree node '' (0x7fa05b86ad9)], 0.01258)
+('Node ', '', [Tree node '' (0x7fa05b86acd), Tree node 'gi|8080538' (0x7fa05b86af5)], 0.01788)
+('Node ', '', [Tree node '' (0x7fa05b86ac9), Tree node 'gi|1062668' (0x7fa05b86af9)], 0.00865)
+('Node ', '', [Tree node 'gi|1025829' (0x7fa05b87611), Tree node 'gi|1035847' (0x7fa05b87615)], 0.02507)
+('Node ', '', [Tree node 'gi|1394406' (0x7fa05b87609), Tree node '' (0x7fa05b87605)], 0.01626)
+('Node ', '', [Tree node 'gi|1222852' (0x7fa05b87639), Tree node 'gi|1236141' (0x7fa05b8763d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b87629), Tree node 'gi|9270840' (0x7fa05b87641)], 0.02191)
+('Node ', '', [Tree node 'gi|1222951' (0x7fa05b87631), Tree node 'gi|1133916' (0x7fa05b87651)], 0.02455)
+('Node ', '', [Tree node '' (0x7fa05b87625), Tree node '' (0x7fa05b87635)], 0.00332)
+('Node ', '', [Tree node '' (0x7fa05b87621), Tree node 'gi|6394523' (0x7fa05b87655)], 0.00317)
+('Node ', '', [Tree node '' (0x7fa05b8761d), Tree node 'gi|1159805' (0x7fa05b87659)], 0.00461)
+('Node ', '', [Tree node '' (0x7fa05b87619), Tree node 'gi|1011414' (0x7fa05b8765d)], 0.00818)
+('Node ', '', [Tree node '' (0x7fa05b86afd), Tree node '' (0x7fa05b8760d)], 0.0115)
+('Node ', '', [Tree node '' (0x7fa05b86ae9), Tree node 'gi|1160849' (0x7fa05b87661)], 0.03571)
+('Node ', '', [Tree node 'gi|1358789' (0x7fa05b87671), Tree node 'gi|1222975' (0x7fa05b87675)], 0.02075)
+('Node ', '', [Tree node 'gi|7387775' (0x7fa05b87669), Tree node '' (0x7fa05b87665)], 0.01669)
+('Node ', '', [Tree node 'gi|7387147' (0x7fa05b87695), Tree node 'gi|8366952' (0x7fa05b87699)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b87681), Tree node 'gi|1133830' (0x7fa05b8769d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b8767d), Tree node 'gi|1133946' (0x7fa05b876a1)], 0.02896)
+('Node ', '', [Tree node 'gi|1133958' (0x7fa05b87689), Tree node 'gi|1015837' (0x7fa05b8768d)], 0.00747)
+('Node ', '', [Tree node '' (0x7fa05b87679), Tree node '' (0x7fa05b87691)], 0.00755)
+('Node ', '', [Tree node '' (0x7fa05b8764d), Tree node '' (0x7fa05b8766d)], 0.00679)
+('Node ', '', [Tree node '' (0x7fa05b87649), Tree node 'gi|1358058' (0x7fa05b876a9)], 0.0024)
+('Node ', '', [Tree node 'gi|1133954' (0x7fa05b876bd), Tree node 'gi|5162857' (0x7fa05b876c1)], 0.00652)
+('Node ', '', [Tree node '' (0x7fa05b876ad), Tree node 'gi|1222990' (0x7fa05b876c5)], 0.00672)
+('Node ', '', [Tree node '' (0x7fa05b876a5), Tree node 'gi|1122546' (0x7fa05b876c9)], 0.00498)
+('Node ', '', [Tree node '' (0x7fa05b87645), Tree node '' (0x7fa05b87685)], 0.04215)
+('Node ', '', [Tree node '' (0x7fa05b86ae5), Tree node '' (0x7fa05b8762d)], 0.00333)
+('Node ', '', [Tree node '' (0x7fa05b86ac5), Tree node '' (0x7fa05b86ad5)], 0.03137)
+('Node ', '', [Tree node 'gi|1177697' (0x7fa05b81f05), Tree node 'gi|4894210' (0x7fa05b81f09)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896d9), Tree node 'gi|1360770' (0x7fa05b81f0d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896d5), Tree node 'gi|1360767' (0x7fa05b81f11)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896d1), Tree node 'gi|4984883' (0x7fa05b81f15)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896cd), Tree node 'gi|1361065' (0x7fa05b81f19)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896c9), Tree node 'gi|1207763' (0x7fa05b81f1d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b896c5), Tree node 'gi|1004096' (0x7fa05b81f21)], 0.02197)
+('Node ', '', [Tree node '' (0x7fa05b896c1), Tree node 'gi|1229387' (0x7fa05b81f25)], 0.06916)
+('Node ', '', [Tree node 'gi|6371569' (0x7fa05b81f89), Tree node 'gi|1374085' (0x7fa05b81f8d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f51), Tree node 'gi|7516202' (0x7fa05b81f91)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f4d), Tree node 'gi|1207611' (0x7fa05b81f95)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f49), Tree node 'gi|7643590' (0x7fa05b81f99)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f45), Tree node 'gi|7516487' (0x7fa05b81f9d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f41), Tree node 'gi|6371748' (0x7fa05b81fa1)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f3d), Tree node 'gi|9535345' (0x7fa05b81fa5)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f39), Tree node 'gi|7461158' (0x7fa05b81fa9)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f35), Tree node 'gi|1140996' (0x7fa05b81fad)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f31), Tree node 'gi|1130444' (0x7fa05b81fb1)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b81f2d), Tree node 'gi|8519725' (0x7fa05b81fb5)], 0.01605)
+('Node ', '', [Tree node '' (0x7fa05b81f29), Tree node 'gi|8500142' (0x7fa05b81fb9)], 0.00136)
+('Node ', '', [Tree node 'gi|1274535' (0x7fa05b81f59), Tree node 'gi|9809546' (0x7fa05b81f5d)], 0.00313)
+('Node ', '', [Tree node '' (0x7fa05b896f9), Tree node '' (0x7fa05b81f85)], 0.01498)
+('Node ', '', [Tree node 'gi|4956364' (0x7fa05b81f6d), Tree node 'gi|1359154' (0x7fa05b81f71)], 0.00503)
+('Node ', '', [Tree node 'gi|9855930' (0x7fa05b81fbd), Tree node 'gi|1360779' (0x7fa05b81fc1)], 0.0011)
+('Node ', '', [Tree node 'gi|7461030' (0x7fa05b81fc9), Tree node 'gi|585908|' (0x7fa05b81fcd)], 0.04416)
+('Node ', '', [Tree node '' (0x7fa05b81f79), Tree node '' (0x7fa05b81f81)], 0.00101)
+('Node ', '', [Tree node '' (0x7fa05b81f75), Tree node 'gi|1942120' (0x7fa05b81fd1)], 0.0001)
+('Node ', '', [Tree node 'gi|1252977' (0x7fa05b82b85), Tree node 'gi|2537227' (0x7fa05b82b89)], 0.0)
+('Node ', '', [Tree node 'gi|9835468' (0x7fa05b82b79), Tree node '' (0x7fa05b82b75)], 0.0)
+('Node ', '', [Tree node 'gi|5159273' (0x7fa05b82b71), Tree node '' (0x7fa05b82b6d)], 0.0)
+('Node ', '', [Tree node 'gi|4601484' (0x7fa05b82b69), Tree node '' (0x7fa05b82b65)], 0.0)
+('Node ', '', [Tree node 'gi|1351330' (0x7fa05b82b61), Tree node '' (0x7fa05b82b5d)], 0.0)
+('Node ', '', [Tree node 'gi|5159375' (0x7fa05b82b59), Tree node '' (0x7fa05b82b55)], 0.0)
+('Node ', '', [Tree node 'gi|1274554' (0x7fa05b82b51), Tree node '' (0x7fa05b82b4d)], 0.0)
+('Node ', '', [Tree node 'gi|9602934' (0x7fa05b82b49), Tree node '' (0x7fa05b82b45)], 0.0)
+('Node ', '', [Tree node 'gi|4956235' (0x7fa05b82b41), Tree node '' (0x7fa05b82b3d)], 0.0)
+('Node ', '', [Tree node 'gi|5008599' (0x7fa05b82b39), Tree node '' (0x7fa05b82b35)], 0.0)
+('Node ', '', [Tree node 'gi|7366527' (0x7fa05b82b31), Tree node '' (0x7fa05b82b2d)], 0.0)
+('Node ', '', [Tree node 'gi|4893052' (0x7fa05b82b29), Tree node '' (0x7fa05b82b25)], 0.0)
+('Node ', '', [Tree node 'gi|1040472' (0x7fa05b82b21), Tree node '' (0x7fa05b82b1d)], 0.0)
+('Node ', '', [Tree node 'gi|1238586' (0x7fa05b82b19), Tree node '' (0x7fa05b82b15)], 0.0)
+('Node ', '', [Tree node 'gi|1360774' (0x7fa05b82b11), Tree node '' (0x7fa05b82b0d)], 0.0)
+('Node ', '', [Tree node 'gi|7362256' (0x7fa05b82b09), Tree node '' (0x7fa05b82b05)], 0.0)
+('Node ', '', [Tree node 'gi|7632775' (0x7fa05b81ffd), Tree node '' (0x7fa05b81ff9)], 0.0)
+('Node ', '', [Tree node 'gi|1360795' (0x7fa05b81ff5), Tree node '' (0x7fa05b81ff1)], 0.0)
+('Node ', '', [Tree node 'gi|1275640' (0x7fa05b81fed), Tree node '' (0x7fa05b81fe9)], 0.01483)
+('Node ', '', [Tree node 'gi|1360751' (0x7fa05b81fe5), Tree node '' (0x7fa05b81fe1)], 0.00101)
+('Node ', '', [Tree node 'gi|1383481' (0x7fa05b81fdd), Tree node '' (0x7fa05b81fd9)], 0.00122)
+('Node ', '', [Tree node 'gi|1002969' (0x7fa05b81fd5), Tree node '' (0x7fa05b81fc5)], 0.00098)
+('Node ', '', [Tree node '' (0x7fa05b81f65), Tree node '' (0x7fa05b81f7d)], 0.00248)
+('Node ', '', [Tree node '' (0x7fa05b81f61), Tree node '' (0x7fa05b81f69)], 0.00338)
+('Node ', '', [Tree node '' (0x7fa05b896f5), Tree node '' (0x7fa05b81f55)], 0.00495)
+('Node ', '', [Tree node 'gi|4091074' (0x7fa05b896f1), Tree node '' (0x7fa05b896ed)], 0.00677)
+('Node ', '', [Tree node 'gi|1794290' (0x7fa05b896e9), Tree node '' (0x7fa05b896e5)], 0.00889)
+('Node ', '', [Tree node 'gi|1129138' (0x7fa05b896e1), Tree node '' (0x7fa05b896dd)], 0.02275)
+('Node ', '', [Tree node '' (0x7fa05b896bd), Tree node '' (0x7fa05b896fd)], 0.02046)
+('Node ', '', [Tree node 'gi|5303389' (0x7fa05b86a19), Tree node 'gi|5052005' (0x7fa05b86a1d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b85ffd), Tree node 'gi|3851508' (0x7fa05b86a21)], 0.02005)
+('Node ', '', [Tree node '' (0x7fa05b85ff9), Tree node 'gi|4892432' (0x7fa05b86a25)], 0.00637)
+('Node ', '', [Tree node '' (0x7fa05b85ff5), Tree node 'gi|1141010' (0x7fa05b86a29)], 0.00532)
+('Node ', '', [Tree node 'gi|1543534' (0x7fa05b86a61), Tree node 'gi|1229062' (0x7fa05b86a65)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a39), Tree node 'gi|7666277' (0x7fa05b86a69)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a35), Tree node 'gi|4946494' (0x7fa05b86a6d)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a31), Tree node 'gi|3871742' (0x7fa05b86a71)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a2d), Tree node 'gi|6962897' (0x7fa05b86a75)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a11), Tree node 'gi|7528566' (0x7fa05b86a79)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a0d), Tree node 'gi|9890161' (0x7fa05b86a7d)], 0.01965)
+('Node ', '', [Tree node '' (0x7fa05b86a09), Tree node 'gi|1267221' (0x7fa05b86a81)], 0.00809)
+('Node ', '', [Tree node 'gi|4520813' (0x7fa05b86a55), Tree node 'gi|6677566' (0x7fa05b86a59)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a45), Tree node 'gi|7528565' (0x7fa05b86a85)], 0.03375)
+('Node ', '', [Tree node 'gi|7235979' (0x7fa05b86a41), Tree node '' (0x7fa05b86a3d)], 0.00702)
+('Node ', '', [Tree node '' (0x7fa05b86a05), Tree node '' (0x7fa05b86a5d)], 0.01237)
+('Node ', '', [Tree node '' (0x7fa05b85ff1), Tree node '' (0x7fa05b86a15)], 0.00406)
+('Node ', '', [Tree node '' (0x7fa05b85fed), Tree node 'gi|9835221' (0x7fa05b86a89)], 0.0182)
+('Node ', '', [Tree node 'gi|3740741' (0x7fa05b86a4d), Tree node 'gi|1167816' (0x7fa05b86a8d)], 0.02129)
+('Node ', '', [Tree node '' (0x7fa05b85fe9), Tree node '' (0x7fa05b86a51)], 0.00209)
+('Node ', '', [Tree node 'gi|1036317' (0x7fa05b86aa5), Tree node 'gi|5155045' (0x7fa05b86aa9)], 0.0)
+('Node ', '', [Tree node '' (0x7fa05b86a95), Tree node 'gi|464661|' (0x7fa05b86aad)], 0.0242)
+('Node ', '', [Tree node '' (0x7fa05b86a91), Tree node 'gi|452374|' (0x7fa05b86ab1)], 0.02835)
+('Node ', '', [Tree node '' (0x7fa05b85fe5), Tree node '' (0x7fa05b86a49)], 0.00197)
+('Node ', '', [Tree node 'gi|9903216' (0x7fa05b85fd5), Tree node 'gi|4274100' (0x7fa05b85fd9)], 0.00358)
+('Node ', '', [Tree node '' (0x7fa05b85fc5), Tree node 'gi|576021|' (0x7fa05b85fdd)], 0.01355)
+('Node ', '', [Tree node 'gi|7801975' (0x7fa05b85fa9), Tree node 'gi|1053185' (0x7fa05b85fad)], 0.02536)
+('Node ', '', [Tree node '' (0x7fa05b85f99), Tree node 'gi|1212738' (0x7fa05b85fb1)], 0.00867)
+('Node ', '', [Tree node 'gi|4139700' (0x7fa05b85fb9), Tree node 'gi|4139773' (0x7fa05b85fbd)], 0.01103)
+('Node ', '', [Tree node '' (0x7fa05b85f9d), Tree node 'gi|4139770' (0x7fa05b85fc1)], 0.00868)
+('Node ', '', [Tree node '' (0x7fa05b85f95), Tree node '' (0x7fa05b85fa5)], 0.0028)
+('Node ', '', [Tree node 'gi|493908|' (0x7fa05b85f61), Tree node 'gi|1065224' (0x7fa05b85f65)], 0.00606)
+('Node ', '', [Tree node '' (0x7fa05b85f49), Tree node 'gi|1885959' (0x7fa05b85f6d)], 0.00467)
+('Node ', '', [Tree node 'gi|4139703' (0x7fa05b85f59), Tree node 'gi|8375463' (0x7fa05b85f71)], 0.01432)
+('Node ', '', [Tree node '' (0x7fa05b85f45), Tree node '' (0x7fa05b85f5d)], 0.00299)
+('Node ', '', [Tree node 'gi|442651|' (0x7fa05b85f29), Tree node 'gi|1065216' (0x7fa05b85f41)], 0.0052)
+('Node ', '', [Tree node 'gi|493905|' (0x7fa05b85f19), Tree node 'gi|493911|' (0x7fa05b85f1d)], 0.00857)
+('Node ', '', [Tree node 'gi|576011|' (0x7fa05b8b15d), Tree node 'gi|4139683' (0x7fa05b8b155)], 0.00562)
+('Node ', '', [Tree node 'gi|493902|' (0x7fa05b8b139), Tree node 'gi|1065209' (0x7fa05b8b145)], 0.00713)
+('Node ', '', [Tree node 'gi|493899|' (0x7fa05b8b131), Tree node '' (0x7fa05b8b12d)], 0.00138)
+('Node ', '', [Tree node 'gi|6636039' (0x7fa05b8b125), Tree node 'gi|5640659' (0x7fa05b8b129)], 0.00148)
+('Node ', '', [Tree node 'gi|3289135' (0x7fa05b993e5), Tree node 'gi|133149|' (0x7fa05b82b8d)], 0.0)
+('Node ', '', [Tree node 'gi|5031190' (0x7fa05b993f5), Tree node '' (0x7fa086f2871)], 0.0)
+('Node ', '', [Tree node 'gi|551694|' (0x7fa05b8b1b5), Tree node '' (0x7fa05b993d9)], 0.0)
+('Node ', '', [Tree node 'gi|3098405' (0x7fa05b8b1c1), Tree node '' (0x7fa05b993dd)], 0.0)
+('Node ', '', [Tree node 'gi|1439559' (0x7fa05b8b1dd), Tree node '' (0x7fa05b8b1fd)], 0.0)
+('Node ', '', [Tree node 'gi|493893|' (0x7fa05b8b111), Tree node '' (0x7fa05b8b1cd)], 0.0)
+('Node ', '', [Tree node 'gi|1121468' (0x7fa05b8b151), Tree node '' (0x7fa05b8b1e1)], 0.01036)
+('Node ', '', [Tree node 'gi|230301|' (0x7fa05b8b161), Tree node '' (0x7fa05b8b181)], 0.00832)
+('Node ', '', [Tree node 'gi|2537228' (0x7fa05b8b169), Tree node '' (0x7fa05b8b121)], 0.00313)
+('Node ', '', [Tree node 'gi|442654|' (0x7fa05b8b105), Tree node '' (0x7fa05b8b159)], 0.00162)
+('Node ', '', [Tree node 'gi|1065202' (0x7fa05b8b10d), Tree node '' (0x7fa05b8b165)], 0.00147)
+('Node ', '', [Tree node '' (0x7fa05b8b115), Tree node '' (0x7fa05b8b171)], 0.00169)
+('Node ', '', [Tree node '' (0x7fa05b8b119), Tree node '' (0x7fa05b8b109)], 0.0011)
+('Node ', '', [Tree node '' (0x7fa05b8b141), Tree node '' (0x7fa05b8b11d)], 0.00252)
+('Node ', '', [Tree node '' (0x7fa05b8b149), Tree node '' (0x7fa05b8b135)], 0.00168)
+('Node ', '', [Tree node '' (0x7fa05b8b16d), Tree node '' (0x7fa05b8b14d)], 0.00067)
+('Node ', '', [Tree node '' (0x7fa05b85f21), Tree node '' (0x7fa05b85f09)], 0.00187)
+('Node ', '', [Tree node 'gi|1065151' (0x7fa05b85f85), Tree node '' (0x7fa05b85f25)], 0.00071)
+('Node ', '', [Tree node 'gi|1065155' (0x7fa05b85f8d), Tree node '' (0x7fa05b85f55)], 0.00242)
+('Node ', '', [Tree node '' (0x7fa05b85f91), Tree node '' (0x7fa05b85f81)], 0.00126)
+('Node ', '', [Tree node '' (0x7fa05b85fa1), Tree node '' (0x7fa05b85f89)], 0.00313)
+('Node ', '', [Tree node 'gi|1065148' (0x7fa05b85fcd), Tree node '' (0x7fa05b85fb5)], 0.00718)
+('Node ', '', [Tree node '' (0x7fa05b85fe1), Tree node '' (0x7fa05b85fd1)], 0.00371)
+('Node ', '', [Tree node 'gi|1004344' (0x7fa05b86a9d), Tree node '' (0x7fa05b85fc9)], 0.01438)
+('Node ', '', [Tree node 'gi|1645127' (0x7fa05b86ab9), Tree node '' (0x7fa05b86aa1)], 0.01681)
+('Node ', '', [Tree node '' (0x7fa05b89689), Tree node '' (0x7fa05b86a99)], 0.01973)
+('Node ', '', [Tree node '' (0x7fa05b86ac1), Tree node '' (0x7fa05b86ab5)], 0.00372)
+('Node ', '', [Tree node '' (0x7fa05b876b1), Tree node '' (0x7fa05b86abd)], 0.009)
+('Node ', '', [Tree node '' (0x7fa05b88139), Tree node '' (0x7fa05b876b9)], 0.00673)
+('Node ', '', [Tree node '' (0x7fa05b8817d), Tree node '' (0x7fa05b88145)], 0.0)

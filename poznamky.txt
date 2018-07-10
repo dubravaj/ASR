@@ -1,0 +1,5 @@
+CO dalej:
+rootovat strom 
+vypocitat vzdialenosti medzi listami
+dalsi stvrtok
+prerezať strom - 
