@@ -3,3 +3,21 @@ rootovat strom
 vypocitat vzdialenosti medzi listami
 dalsi stvrtok
 prerezať strom - 
+-------------------
+mam maticu vzdialenosti, co dalej
+prerezat tak na 100-150
+nejaky zhluk odstranovat
+blast a potom cd hit
+porovnat blast vystup s uniprotom na podobnost + mozno vlozit uniprot do sekvencii
+blastovat pomocou mnoziny sekvencií - s vystupom uniprotu (macromolecules) + cd hit
+znova maticu + odfiltrovat sekvencie
+
+--- odstranovane len samostatne listy, bez zhlukovania
+1. vytvorene subory s 250 po BLASTE + UNIPROT + CD HIT -> vytvoreny strom, matica, odstranene najvzdialenejsie aby odstalo na konci 100 listov, vytvorena matica + strom
+2. blastovanie sekvencii z UNIPROTU -> vycistene CD HITom -> vytvoreny strom, matica, odstranene najvzdialenjesie uzly, vytvorena matica + strom
+
+--- zhlukovanie
+
+
+
+

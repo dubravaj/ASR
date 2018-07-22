@@ -2,41 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07014a4e-8134-4e2a-9393-f50d3bc3a8a2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/create_seq_folders.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_fasta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse_XML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phylo_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_blast.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_1000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250.fna" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_bbc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_bbc_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_bbc_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_cv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_cv_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_cv_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_d2_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_d2_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ffp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ffp_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ffp_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_lempelziv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_lempelziv_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_lempelziv_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ncd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ncd_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_ncd_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_wmetric" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_wmetric_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_wmetric_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_word" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_word_output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p/1a2p_250_word_tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1a2p_250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1a2p_rooted_tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/calc_distance_matrix.sh" beforeDir="false" afterPath="$PROJECT_DIR$/calc_distance_matrix.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes_d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phylo_matrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phylo_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/phylo_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poznamky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/poznamky.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_dist_matrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,10 +95,22 @@
       <file leaf-file-name="phylo_tree.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phylo_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+            <state relative-caret-position="347">
+              <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
               <folding>
                 <element signature="e#22#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="distance_matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distance_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="e#21#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,8 +119,8 @@
       <file leaf-file-name="calc_distance_matrix.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc_distance_matrix.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="432">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -167,6 +156,7 @@
         <option value="$PROJECT_DIR$/get_sequences.py" />
         <option value="$PROJECT_DIR$/create_seq_folders.sh" />
         <option value="$PROJECT_DIR$/calc_distance_matrix.sh" />
+        <option value="$PROJECT_DIR$/distance_matrix.py" />
         <option value="$PROJECT_DIR$/phylo_tree.py" />
       </list>
     </option>
@@ -191,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,14 +291,14 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.31057268" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946582" visible="true" weight="0.32268724" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70569104" visible="true" weight="0.15170941" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946582" visible="true" weight="0.32929516" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6929392" visible="true" weight="0.16132478" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="Database" order="3" weight="0.32894737" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.29430893" side_tool="true" visible="true" weight="0.15170941" />
+      <window_info id="Structure" order="1" sideWeight="0.30706075" side_tool="true" visible="true" weight="0.16132478" />
       <window_info id="Favorites" order="2" sideWeight="0.50090414" side_tool="true" weight="0.13728632" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -332,27 +322,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parse_XML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc_distance_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc_distance_matrix.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run_blast.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -479,34 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_blast.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/create_tree.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calc_distance_matrix.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/create_seq_folders.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_fasta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -517,10 +458,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run_blast.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1a2p_251_bbc_tree" />
+    <entry file="file://$PROJECT_DIR$/1a2p_251_bbc" />
+    <entry file="file://$PROJECT_DIR$/calc_distance_matrix.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_tree.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_seq_folders.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distance_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#21#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phylo_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        <state relative-caret-position="347">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
           <folding>
             <element signature="e#22#59#0" expanded="true" />
           </folding>
